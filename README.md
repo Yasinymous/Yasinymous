@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+### I'm Yasin Murat,
+####  I am studying at Erzurum Technical University. My department is Computer Engineering.
+Contact [me](mailto:ysnakyz55@gmail.com) !
+
+
 
 <!--
 **Yasinymous/Yasinymous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
