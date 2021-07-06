@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### I'm Yasin Murat,
-####  I am studying at Erzurum Technical University. My department is Computer Engineering.
+####  
 Contact [me](mailto:ysnakyz55@gmail.com) !
 
 
