@@ -1,7 +1,9 @@
 ## Hi there 👋
 ### I'm Yasin Murat,
 ####  
-Contact [me](mailto:ysnakyz55@gmail.com) !
+LinkedIn [click](https://www.linkedin.com/in/yasinymous/) !
+
+E-mail [click](mailto:ysnakyz55@gmail.com) !
 
 
 
